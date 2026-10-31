@@ -110,7 +110,7 @@ INTO dbo.RetailCombined
 FROM dbo.[Year 2009-2010];
 ```
 
-## Sample Python: RFM Scoring
+## Sample Python: RFM Scoring;
 
 ```python
 rfm['R_Score'] = pd.qcut(rfm['Recency'], 5, labels=[5, 4, 3, 2, 1]).astype(int)
