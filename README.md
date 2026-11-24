@@ -9,7 +9,6 @@
 
 This project is created for educational and portfolio purposes only. The data, analysis, and insights are based on a public transactional dataset and should not be interpreted as the actual performance of any real company. All results are intended for learning and demonstration purposes.
 
-
 ---
 
 ## Project Overview
