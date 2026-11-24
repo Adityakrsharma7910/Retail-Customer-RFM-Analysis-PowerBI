@@ -77,6 +77,7 @@ The business wants to identify its most valuable customers and reduce churn amon
 
 **Step 1 — Business Requirements Document.** Defined scope, business questions, key definitions, and success criteria before any data work began.
 
+
 **Step 2 — SQL, Data Cleaning and Exploration.** Imported both raw sheets into SQL Server, corrected data types, resolved a mixed date format issue affecting over half the dataset, removed 32,907 exact duplicate rows, and validated row counts at every step against the published UCI total.
 
 **Step 3 — Python, RFM Segmentation.** Loaded the cleaned data into pandas, calculated Recency, Frequency, and Monetary value per customer, scored each customer on a 1 to 5 scale per dimension, and assigned each of the 5,881 customers to one of six segments. Added a 90 day churn flag.
