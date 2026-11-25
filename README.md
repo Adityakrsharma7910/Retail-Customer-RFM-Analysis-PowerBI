@@ -11,6 +11,7 @@ This project is created for educational and portfolio purposes only. The data, a
 
 ---
 
+
 ## Project Overview
 
 This project simulates a real-world analytics engagement for a fictional UK-based gifting and home décor e-commerce business. The goal is to transform raw, messy transactional data into a decision-ready business intelligence dashboard using a workflow similar to that followed by a professional data analyst.
